@@ -56,6 +56,13 @@ def add_movie(title):
     save_movie_list()
 
 
+def show_movie_list(list):
+    print('-' * 40)
+    for movie in sorted(list):
+        print(titlecase(movie))
+    print('-' * 40)
+
+
 def get_movie():
     movie = input("Movie title: ").lower()
     return movie
@@ -66,7 +73,9 @@ while running:
 [A]dd movie
 [R]emove movie
 [W]atch movie
-Ra[N]dom movie
+[G]et Random movie
+[S]ee movie list
+[V]iew watched list
 [X]it
 """).lower()
     if selection == "a":
@@ -75,7 +84,15 @@ Ra[N]dom movie
         remove_movie(get_movie())
     elif selection == "w":
         append_watched_movie(get_movie())
-    elif selection == "n":
+    elif selection == 's':
+        show_movie_list(movies)
+    elif selection == 'v':
+        watched_movies = []
+        with open(this_years_list, 'r') as yearlist:
+            for line in yearlist:
+                watched_movies.append(line.strip('\n'))
+        show_movie_list(watched_movies)
+    elif selection == "g":
         print("\nYour next movie should be \"{}\"".format(titlecase(choice(movies))))
     elif selection == "x":
         break

@@ -3,11 +3,13 @@ A Cure for Wellness
 A Hidden Life
 A Simple Favor
 American Factory
+Antebellum
 Artemis Fowl
 Atonement
 Bad Boys for Life
 Bad Education
 Barry Lyndon
+Barton Fink
 Barton Fink
 Big Fish
 Bill & Ted Face the Music
@@ -59,7 +61,6 @@ Hustlers
 If Beale Street Could Talk
 In Bruges
 Incredibles 2
-Jay and Silent Bob Reboot
 Jennifer's Body
 John Wick: Chapter 3
 Justice League Dark
@@ -101,7 +102,6 @@ Roma
 Rounders
 Saving Mr. Banks
 Scarface
-Schenectady New York
 Secret Life of Pets 2
 Shoplifters
 Soldado
@@ -150,6 +150,7 @@ The Tomorrow War
 The Two Popes
 The War With Grandpa
 The Way Back
+The Way of the Gun
 The Way Way Back
 The Woman in the Window
 Top Gun: Maverick
@@ -158,7 +159,6 @@ Upgrade
 Vhyes
 Vivarium
 Waves
-Wet Hot American Summer
 Without Remorse
 Wonder Woman 1984
 Wonderstruck
