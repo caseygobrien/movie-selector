@@ -18,8 +18,8 @@ with open(movielist, 'r') as movieimport:
 
 def save_movie_list():
     with open(movielist, 'w') as save:
-        for movie in sorted(movies):
-            print(titlecase(movie), file=save)
+        for movietitle in sorted(movies):
+            print(titlecase(movietitle), file=save)
 
 
 def append_watched_movie(title):
@@ -51,21 +51,24 @@ def remove_movie(title):
 def add_movie(title):
     if title == '':
         return
+    if title in movies:
+        print('\n"{}" is already in your list.'.format(titlecase(title)), end='\n')
+        return
     movies.append(title)
     print('\n"{}" added to your list.'.format(titlecase(title)), end='\n')
     save_movie_list()
 
 
-def show_movie_list(list):
+def show_movie_list(list_of_movies):
     print('-' * 40)
-    for movie in sorted(list):
-        print(titlecase(movie))
+    for moviename in sorted(list_of_movies):
+        print(moviename)
     print('-' * 40)
 
 
 def get_movie():
-    movie = input("Movie title: ").lower()
-    return movie
+    new_movie = input("Movie title: ").lower()
+    return new_movie
 
 
 while running:
@@ -85,7 +88,10 @@ while running:
     elif selection == "w":
         append_watched_movie(get_movie())
     elif selection == 's':
-        show_movie_list(movies)
+        movies_titlecase = []
+        for movie in movies:
+            movies_titlecase.append(titlecase(movie))
+        show_movie_list(movies_titlecase)
     elif selection == 'v':
         watched_movies = []
         with open(this_years_list, 'r') as yearlist:
@@ -95,4 +101,5 @@ while running:
     elif selection == "g":
         print("\nYour next movie should be \"{}\"".format(titlecase(choice(movies))))
     elif selection == "x":
+        print("You have {} movies in your list".format(len(movies)))
         break

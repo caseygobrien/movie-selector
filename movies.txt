@@ -1,4 +1,3 @@
-6 Underground
 A Cure for Wellness
 A Hidden Life
 A Simple Favor
@@ -9,7 +8,6 @@ Atonement
 Bad Boys for Life
 Bad Education
 Barry Lyndon
-Barton Fink
 Barton Fink
 Big Fish
 Bill & Ted Face the Music
@@ -23,11 +21,14 @@ Casualties of War
 Charlie's Angels (2019)
 Chronicle
 Cloud Atlas
+Come and See
 Coming 2 America
 Computer Chess
 Concussion
 Crimes and Misdemenors
+Da 5 Bloods
 Dark Waters
+Das Boot
 Dead Man
 Dead Poet's Society
 Death on the Nile
@@ -48,28 +49,30 @@ Flags of Our Fathers
 Flight
 Foxcatcher
 Free Guy
+Full Metal Jacket
 Gemini Man
 Ghostbusters: Afterlife
 Godzilla vs Kong
 Godzilla: King of the Monsters
 Greyhound
+Hacksaw Ridge
 Halloween Kills
 Hobbs and Shaw
 Hot Fuzz
 Hunt for the Wilder People
 Hustlers
 If Beale Street Could Talk
-In Bruges
-Incredibles 2
+Infamous
 Jennifer's Body
 John Wick: Chapter 3
-Justice League Dark
+Justice League Dark: Apokolips War
 Kicking and Screaming
 Kingsman: The Secret Service
 Kramer vs. Kramer
 Kubo and the Two Strings
 La Vie en Rose
 Last Christmas
+Last Flag Flying
 Leaving Las Vegas
 Let Him Go
 Letters From Iwo Jima
@@ -89,6 +92,7 @@ No Time to Die
 Obvious Child
 Operation Finale
 Overlord
+Paths of Glory
 Peppermint
 Pet Semetary
 Phantom Thread
@@ -98,11 +102,12 @@ Raising Arizona
 Rambo: Last Blood
 Rocky
 Rolling Thunder Revue
-Roma
 Rounders
 Saving Mr. Banks
 Scarface
 Secret Life of Pets 2
+Selma
+Sergeant York
 Shoplifters
 Soldado
 Spiral
@@ -122,6 +127,7 @@ The Dead Won't Die
 The End of the Tour
 The Fighter
 The Florida Project
+The Front Runner
 The Gentlemen
 The Goldfinch
 The Good the Bad and the Ugly
@@ -145,7 +151,6 @@ The Rules of the Game
 The Saint
 The Souvenir
 The Talented Mr. Ripley
-The Thin Red Line
 The Tomorrow War
 The Two Popes
 The War With Grandpa
@@ -163,4 +168,3 @@ Without Remorse
 Wonder Woman 1984
 Wonderstruck
 Yesterday
-Zombieland: Double Tap
