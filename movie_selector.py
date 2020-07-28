@@ -16,10 +16,11 @@ with open(movielist, 'r') as movieimport:
         movies.append(line.strip('\n').lower())
 
 
-def save_movie_list():
+def save_movie_list(list_of_movies):
+    sorted_movies = sort_movies(list_of_movies)
     with open(movielist, 'w') as save:
-        for movietitle in sorted(movies):
-            print(titlecase(movietitle), file=save)
+        for title in sorted_movies:
+            print(titlecase(title), file=save)
 
 
 def append_watched_movie(title):
@@ -27,7 +28,7 @@ def append_watched_movie(title):
         return
     try:
         movies.remove(title)
-        save_movie_list()
+        save_movie_list(movies)
     except ValueError:
         pass
     newtitle = today + ' ' + titlecase(title)
@@ -42,7 +43,7 @@ def remove_movie(title):
         return
     if title in movies:
         movies.remove(title)
-        save_movie_list()
+        save_movie_list(movies)
         print("\"{}\" removed from your list".format(titlecase(title)))
     else:
         print("\"{}\" is not in your list".format(titlecase(title)))
@@ -56,19 +57,45 @@ def add_movie(title):
         return
     movies.append(title)
     print('\n"{}" added to your list.'.format(titlecase(title)), end='\n')
-    save_movie_list()
+    save_movie_list(movies)
 
 
 def show_movie_list(list_of_movies):
+    sorted_movies = sort_movies(list_of_movies)
     print('-' * 40)
-    for moviename in sorted(list_of_movies):
-        print(moviename)
+    for movie in sorted_movies:
+        print(titlecase(movie))
     print('-' * 40)
 
 
 def get_movie():
     new_movie = input("Movie title: ").lower()
     return new_movie
+
+
+def sort_movies(list_of_movies):
+    sorted_movies = sorted(list_of_movies)
+    movies_the_cleaned = []
+    movies_a_cleaned = []
+    movies_with_the = [title for title in sorted_movies if title.startswith("the ")]
+    movies_with_a = [title for title in sorted_movies if title.startswith("a ")]
+    for title in movies_with_the:
+        movies_the_cleaned.append(title.replace("the ", ""))
+        sorted_movies.remove(title)
+    for title in movies_with_a:
+        movies_a_cleaned.append(title.replace("a ", ""))
+        sorted_movies.remove(title)
+    for title in movies_the_cleaned:
+        sorted_movies.append(title)
+    for title in movies_a_cleaned:
+        sorted_movies.append(title)
+    sorted_movies.sort()
+    for title in sorted_movies:
+        if title in movies_the_cleaned:
+            sorted_movies[sorted_movies.index(title)] = movies_with_the[movies_the_cleaned.index(title)]
+        if title in movies_a_cleaned:
+            sorted_movies[sorted_movies.index(title)] = movies_with_a[movies_a_cleaned.index(title)]
+    return sorted_movies
 
 
 while running:
@@ -88,10 +115,7 @@ while running:
     elif selection == "w":
         append_watched_movie(get_movie())
     elif selection == 's':
-        movies_titlecase = []
-        for movie in movies:
-            movies_titlecase.append(titlecase(movie))
-        show_movie_list(movies_titlecase)
+        show_movie_list(movies)
     elif selection == 'v':
         watched_movies = []
         with open(this_years_list, 'r') as yearlist:
@@ -102,4 +126,4 @@ while running:
         print("\nYour next movie should be \"{}\"".format(titlecase(choice(movies))))
     elif selection == "x":
         print("You have {} movies in your list".format(len(movies)))
-        break
+        running = False

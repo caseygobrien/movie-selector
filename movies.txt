@@ -1,12 +1,11 @@
-A Cure for Wellness
-A Hidden Life
-A Simple Favor
 American Factory
 Antebellum
 Artemis Fowl
+The Assistant
 Atonement
 Bad Boys for Life
 Bad Education
+The Ballad of Buster Scruggs
 Barry Lyndon
 Barton Fink
 Big Fish
@@ -15,27 +14,32 @@ Black Widow
 Blood Diamond
 Brawl in Cell Block 99
 Call Me by Your Name
+The Candidate
 Capone
 Captain Phillips
 Casualties of War
 Charlie's Angels (2019)
 Chronicle
 Cloud Atlas
+The Color Purple
 Come and See
 Coming 2 America
 Computer Chess
 Concussion
 Crimes and Misdemenors
+A Cure for Wellness
 Da 5 Bloods
 Dark Waters
 Das Boot
 Dead Man
 Dead Poet's Society
+The Dead Won't Die
 Death on the Nile
 Dogtooth
 Dolemite Is My Name
 Dune
 Dunkirk
+The End of the Tour
 End of Watch
 Eternals
 Everybody's Talking About Jamie
@@ -43,20 +47,29 @@ Exit Through the Gift Shop
 Extra Ordinary
 F9
 Fallen Kingdom
+The Fighter
 First Man
 First Reformed
 Flags of Our Fathers
 Flight
+The Florida Project
 Foxcatcher
 Free Guy
+The Front Runner
 Full Metal Jacket
 Gemini Man
+The Gentlemen
 Ghostbusters: Afterlife
 Godzilla vs Kong
 Godzilla: King of the Monsters
+The Goldfinch
+The Good the Bad and the Ugly
+The Graduate
 Greyhound
 Hacksaw Ridge
 Halloween Kills
+The Happytime Murders
+A Hidden Life
 Hobbs and Shaw
 Hot Fuzz
 Hunt for the Wilder People
@@ -73,12 +86,17 @@ Kubo and the Two Strings
 La Vie en Rose
 Last Christmas
 Last Flag Flying
+The Last Full Measure
+The Last King of Scotland
 Leaving Las Vegas
 Let Him Go
 Letters From Iwo Jima
 Life Itself
+The Lighthouse
 Longshot
+The Lost City of Z
 Malignant
+The Man Who Killed Don Quixote
 Mandy
 Margaret
 Master and Commander: The Far Side of the World
@@ -87,12 +105,18 @@ Millers Crossing
 Motherless Brooklyn
 Mudbound
 Mulan
+The Mule
+The Mustang
+The New Mutants
 News of the World
+The Nightingale
 No Time to Die
 Obvious Child
+The One and Only Ivan
 Operation Finale
 Overlord
 Paths of Glory
+The Peanut Butter Falcon
 Peppermint
 Pet Semetary
 Phantom Thread
@@ -100,16 +124,21 @@ Portrait of a Lady on Fire
 Raging Bull
 Raising Arizona
 Rambo: Last Blood
+The Revenant
+The Right Stuff
 Rocky
 Rolling Thunder Revue
 Rounders
+The Rules of the Game
+The Saint
 Saving Mr. Banks
 Scarface
 Secret Life of Pets 2
-Selma
 Sergeant York
 Shoplifters
+A Simple Favor
 Soldado
+The Souvenir
 Spiral
 Spirited Away
 Stalag 17
@@ -117,54 +146,23 @@ Straight Outta Compton
 Stranger Than Paradise
 Suspiria(2018)
 Sweeny Todd
+The Talented Mr. Ripley
 Tenet
 Terms of Endearment
-The Assistant
-The Ballad of Buster Scruggs
-The Candidate
-The Color Purple
-The Dead Won't Die
-The End of the Tour
-The Fighter
-The Florida Project
-The Front Runner
-The Gentlemen
-The Goldfinch
-The Good the Bad and the Ugly
-The Graduate
-The Happytime Murders
-The Last Black Man in San Francisco
-The Last Full Measure
-The Last King of Scotland
-The Lighthouse
-The Lost City of Z
-The Man Who Killed Don Quixote
-The Mule
-The Mustang
-The New Mutants
-The Nightingale
-The One and Only Ivan
-The Peanut Butter Falcon
-The Revenant
-The Right Stuff
-The Rules of the Game
-The Saint
-The Souvenir
-The Talented Mr. Ripley
 The Tomorrow War
-The Two Popes
-The War With Grandpa
-The Way Back
-The Way of the Gun
-The Way Way Back
-The Woman in the Window
 Top Gun: Maverick
+The Two Popes
 Uncharted
 Upgrade
 Vhyes
 Vivarium
+The War With Grandpa
 Waves
+The Way Back
+The Way of the Gun
+The Way Way Back
 Without Remorse
+The Woman in the Window
 Wonder Woman 1984
 Wonderstruck
 Yesterday
