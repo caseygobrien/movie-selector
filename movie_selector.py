@@ -33,7 +33,7 @@ def append_watched_movie(title):
         pass
     newtitle = today + ' ' + titlecase(title)
     with open(this_years_list, 'a') as save:
-        save.write("\n" + newtitle)
+        save.write('\n' + newtitle)
     print('\n"{}" added to your {}'
           ' watched list.'.format(titlecase(title), current_year), end='\n')
 
@@ -77,24 +77,16 @@ def sort_movies():
     movies_with_the = [title for title in movies if title.startswith("the ")]
     movies_with_a = [title for title in movies if title.startswith("a ")]
     movies_with_an = [title for title in movies if title.startswith("an ")]
-    movies_the_cleaned = []
-    movies_a_cleaned = []
-    movies_an_cleaned = []
-    for title in movies_with_the:
-        movies_the_cleaned.append(title.replace("the ", ""))
-        movies.remove(title)
-    for title in movies_with_a:
-        movies_a_cleaned.append(title.replace("a ", ""))
-        movies.remove(title)
-    for title in movies_with_an:
-        movies_an_cleaned.append(title.replace("an ", ""))
-        movies.remove(title)
-    for title in movies_the_cleaned:
-        movies.append(title)
-    for title in movies_a_cleaned:
-        movies.append(title)
-    for title in movies_an_cleaned:
-        movies.append(title)
+    movies_the_cleaned = [title.replace("the ", "") for title in movies_with_the]
+    movies_a_cleaned = [title.replace("a ", "") for title in movies_with_a]
+    movies_an_cleaned = [title.replace("an ", "") for title in movies_with_an]
+    for title in movies:
+        if title in movies_with_the:
+            movies[movies.index(title)] = movies_the_cleaned[movies_with_the.index(title)]
+        elif title in movies_with_a:
+            movies[movies.index(title)] = movies_a_cleaned[movies_with_a.index(title)]
+        elif title in movies_with_an:
+            movies[movies.index(title)] = movies_an_cleaned[movies_with_an.index(title)]
     movies.sort()
     for title in movies:
         if title in movies_the_cleaned:
