@@ -31,9 +31,9 @@ def append_watched_movie(title):
         save_movie_list()
     except ValueError:
         pass
-    newtitle = today + ' ' + titlecase(title)
+    new_title = today + ' ' + titlecase(title)
     with open(this_years_list, 'a') as save:
-        save.write('\n' + newtitle)
+        save.write('\n' + new_title)
     print('\n"{}" added to your {}'
           ' watched list.'.format(titlecase(title), current_year), end='\n')
 
