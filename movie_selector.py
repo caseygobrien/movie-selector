@@ -10,6 +10,7 @@ this_years_list = str(current_year) + " movies.txt"
 today = datetime.now().strftime('%m/%d')
 
 open(movielist, 'a').close()
+open(this_years_list, 'a').close()
 
 with open(movielist, 'r') as movieimport:
     for line in movieimport:
