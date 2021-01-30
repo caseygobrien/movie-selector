@@ -4,6 +4,7 @@ from titlecase import titlecase
 
 running = True
 movies = []
+watched_movies = []
 movielist = "movies.txt"
 current_year = datetime.today().year
 this_years_list = str(current_year) + " movies.txt"
@@ -15,6 +16,9 @@ open(this_years_list, 'a').close()
 with open(movielist, 'r') as movieimport:
     for line in movieimport:
         movies.append(line.strip('\n').lower())
+with open(this_years_list, 'r') as watched_import:
+    for line in watched_import:
+        watched_movies.append(line.strip('\n'))
 
 
 def save_movie_list():
@@ -33,8 +37,10 @@ def append_watched_movie(title):
     except ValueError:
         pass
     new_title = today + ' ' + titlecase(title)
-    with open(this_years_list, 'a') as save:
-        save.write('\n' + new_title)
+    watched_movies.append(new_title)
+    with open(this_years_list, 'w') as save:
+        for watched_movie in watched_movies:
+            print(watched_movie, file=save)
     print('\n"{}" added to your {}'
           ' watched list.'.format(titlecase(title), current_year), end='\n')
 
@@ -59,14 +65,6 @@ def add_movie(title):
     movies.append(title)
     print('\n"{}" added to your list.'.format(titlecase(title)), end='\n')
     save_movie_list()
-
-
-def show_movie_list():
-    movies = sort_movies()
-    print('-' * 40)
-    for movie in movies:
-        print(titlecase(movie))
-    print('-' * 40)
 
 
 def get_movie():
@@ -116,12 +114,12 @@ while running:
     elif selection == "w":
         append_watched_movie(get_movie())
     elif selection == 's':
-        show_movie_list()
+        movies = sort_movies()
+        print('-' * 40)
+        for entry in movies:
+            print(titlecase(entry))
+        print('-' * 40)
     elif selection == 'v':
-        watched_movies = []
-        with open(this_years_list, 'r') as yearlist:
-            for line in yearlist:
-                watched_movies.append(line.strip('\n'))
         print('-' * 40)
         for entry in watched_movies:
             print(entry)
