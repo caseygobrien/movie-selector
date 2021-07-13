@@ -22,10 +22,10 @@ with open(this_years_list, 'r') as watched_import:
 
 
 def save_movie_list():
-    movies = sort_movies()
-    with open(movielist, 'w') as save:
-        for title in movies:
-            print(titlecase(title), file=save)
+    movies_sorted = sort_movies()
+    with open(movielist, 'w') as save_movies:
+        for title in movies_sorted:
+            print(titlecase(title), file=save_movies)
 
 
 def append_watched_movie(title):
@@ -36,11 +36,11 @@ def append_watched_movie(title):
         save_movie_list()
     except ValueError:
         pass
-    new_title = today + ' ' + titlecase(title)
-    watched_movies.append(new_title)
-    with open(this_years_list, 'w') as save:
+    dated_title = today + ' ' + titlecase(title)
+    watched_movies.append(dated_title)
+    with open(this_years_list, 'w') as save_watched_list:
         for watched_movie in watched_movies:
-            print(watched_movie, file=save)
+            print(watched_movie, file=save_watched_list)
     print('\n"{}" added to your {}'
           ' watched list.'.format(titlecase(title), current_year), end='\n')
 
@@ -114,9 +114,9 @@ while running:
     elif selection == "w":
         append_watched_movie(get_movie())
     elif selection == 's':
-        movies = sort_movies()
+        view_sorted_movies = sort_movies()
         print('-' * 40)
-        for entry in movies:
+        for entry in view_sorted_movies:
             print(titlecase(entry))
         print('-' * 40)
     elif selection == 'v':

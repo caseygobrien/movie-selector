@@ -1,41 +1,42 @@
 13th
-The 40-Year-Old Version
-American Utopia
-Another Round
 Antebellum
-Archenemy
-Artemis Fowl
 Ava
 Bacurau
 Bad Boys for Life
-Bad Education
-Barb & Star Go to Vista Del Mar
+Bad Words
+Badlands
 Barry Lyndon
 Barton Fink
-Between the World and Me
-Big Fish
+Be Kind Rewind
+The Beach
+Behind the Curve
+The Big Sleep
 Black Widow
 Blood Diamond
 Bone Tomahawk
-Bottle Rocket
+Boss Level
 Brawl in Cell Block 99
-Brick
+Brazil
+Breathless
+The Brothers Bloom
 Call Me by Your Name
-The Candidate
+Can You Ever Forgive Me
 Capone
 Captain Phillips
 Casualties of War
+Chaos Walking
 Charlie's Angels (2019)
 Cherry
-Citizen Kane
-The Color Purple
+Chinatown
+Coda
 Come to Daddy
-Coming 2 America
+Come True
 Computer Chess
+The Conformist
+Crank
 Crazy, Not Insane
 Crimes and Misdemenors
 A Cure for Wellness
-Da 5 Bloods
 Dancer in the Dark
 Dark Waters
 Das Boot
@@ -45,13 +46,14 @@ Dead Man
 Dead Poet's Society
 Death on the Nile
 Deep Water
+The Defiant Ones
 Desperados
-Dick Johnson Is Dead
+Devil in a Blue Dress
 Dogtooth
-Dolemite Is My Name
+Double Indemnity
+Drunk Bus
 Dune
 Dunkirk
-The End of the Tour
 End of Watch
 Enemy
 Enola Holmes
@@ -60,140 +62,174 @@ Event Horizon
 Everybody's Talking About Jamie
 Exit Through the Gift Shop
 Extra Ordinary
+The Eyes of Tammy Faye
 F9
+False Positive
 Fatman
 Feels Good Man
-Fireball: Visitors From Darker Worlds
-First Cow
 First Man
 First Reformed
 Flags of Our Fathers
 The Florida Project
 Four Lions
 Foxcatcher
+Frances Ha
 Free Guy
+The French Dispatch
+French Exit
 The Front Runner
+The Gambler
 Gemini Man
-The Gentlemen
 Ghostbusters: Afterlife
-Godzilla vs Kong
-The Goldfinch
+The Girl on the Train
 Gosford Park
 The Graduate
-Greenland
+The Grand Budapest Hotel
+The Green Knight
 Greyhound
 Hacksaw Ridge
 Halloween Kills
-The Happytime Murders
-A Hidden Life
+The Harder They Fall
+Harper
+Hell or High Water
 His House
 Hobbs and Shaw
-Hot Fuzz
+Holy Motors
 Hotel Rwanda
-Hunt for the Wilder People
 Hustlers
 I'm No Longer Here
+The Ice Road
+In and of Itself
 Infamous
 Inland Empire
 Interstellar
-Jennifer's Body
-John Wick: Chapter 3
-Judas and the Black Messiah
+The Ipcress File
+It's Such a Beautiful Day
+Joe vs the Volcano
+John Carter
 Justice League Dark: Apokolips War
 Kicking and Screaming
+Kill List
+The Killing
+Killing of Two Lovers
 The King of Staten Island 
+The King's Man
 Kingsman: The Golden Circle
+Kiss Me Deadly
 Kong: Skull Island
 Kramer vs. Kramer
 Kubo and the Two Strings
 La Vie en Rose
+The Last Days of Disco
 Last Flag Flying
-The Last King of Scotland
 Last Night in Soho
+Lawrence of Arabia
 Leaving Las Vegas
-Let Him Go
 Letters From Iwo Jima
-Life Itself
 A Life Less Ordinary
 The Limey
-Long Shot
+Little Fish
+The Lives of Others
 The Lost City of Z
 Lost Highway
 Loving
-M*a*s*h
 Ma Rainey's Black Bottom
-Malcolm and Marie
+Magic Mike
+Malcolm & Marie
 Malignant
+The Man From u.n.c.l.e
 The Man Who Killed Don Quixote
 Mandy
 Margaret
-Master and Commander: The Far Side of the World
+The Matrix 4
 Me and You and Everyone We Know
 Midway
-Miller's Crossing
-Motherless Brooklyn
+Miss Juneteenth
+Mr. Right
 Mudbound
 Mulholland Drive
 The Mustang
 Nausicaa of the Valley of the Wind
+Neighbors
 The New Mutants
 News of the World
+The Nice Guys
+The Night House
+Night Moves
 The Nightingale
 No Time to Die
-The November Sky
-Obvious Child
 Old
+Oldboy
 On the Rocks
-Once Upon a Time in the West
+Once Upon a Time in America
 The One and Only Ivan
 One Night in Miami
+Oslo
+The Other Side of the Wind
+Our Man in Havana
 Overlord
+Oxygen
+The Painted Bird
+Paris, Texas
 The Peanut Butter Falcon
 Peppermint
 Pet Semetary
 Pg: Psycho Goreman
+The Phantom
 Phantom Thread
-Point Break
-Popstar: Never Stop Never Stopping
 Portrait of a Lady on Fire
 Primer
 Project Power
+The Protege
+Psycho Goreman
 Raging Bull
+The Raid
 Rambo: Last Blood
-Relic
+Red Notice
+Reminiscence
 The Revenant
-The Right Stuff
-Rocky
+Rock 'N Rolla
+Rocky Ii
 Rolling Thunder Revue
 Ronin
 Rounders
-The Rules of the Game
+Safety Not Guaranteed
 The Saint
-Saving Mr. Banks
 Scarface
 Secret Life of Pets 2
+Senior Moment
 Sergeant York
 A Serious Man
-Shallow Grave
-Shazam
-Shazam!
+Sex, Lies, and Videotape
+Shang-Chi and the Legend of the Ten Rings
 Shoplifters
+Sid and Nancy
 A Simple Favor
+A Single Man
+Sinister
 Soldado
-Sound of Metal
 Sound of My Voice
 The Souvenir
-Spiral
+Space Jam: A New Legacy
+The Spectacular Now
+Spider-Man: No Way Home
 Spirited Away
 Sputnik
 Stalag 17
+Stillwater
+Stowaway
 The Straight Story
-Stranger Than Paradise
+Summer of Soul
 Supernova
 Sweeny Todd
 Sylvie's Love
 T2 Trainspotting
 Terms of Endearment
+Tesla
+The Third Man
+Those Who Wish Me Dead
+Three Days of the Condor
+Thunder Force
 Time
 The Tomorrow War
 Top Gun: Maverick
@@ -201,10 +237,11 @@ Uncharted
 Upgrade
 Vhyes
 Vivarium
+Voyagers
 The War With Grandpa
 The Way Back
 The Way of the Gun
-Without Remorse
-The Woman in the Window
-Yesterday
-Zappa
+We Have Always Lived in the Castle
+The Wolf of Snow Hollow
+You're Next
+Zola
