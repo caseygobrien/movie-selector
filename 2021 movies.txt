@@ -8,7 +8,7 @@
 01/23 Flight
 01/25 Batman: Soul of the Dragon
 01/29 The Little Things
-01/30 M*a*s*h
+01/30 M*A*S*H
 01/31 Obvious Child
 01/31 Airplane!
 02/04 Once Upon a Time in the West
@@ -90,14 +90,14 @@
 05/30 Let Him Go
 05/31 Lapsis
 06/03 Stranger Than Paradise
-06/06 Spiral
+06/06 Spiral: From the Book of Saw
 06/07 Zappa
 06/07 Jennifer's Body
 06/10 The Maltese Falcon
 06/11 Bo Burnham: Inside
 06/11 The 40-Year-Old Version
 06/11 The Conjuring: The Devil Made Me Do It
-06/12 La Confidential
+06/12 LA Confidential
 06/12 Primal Fear
 06/12 In the Heights
 06/13 Pete's Dragon
@@ -110,4 +110,6 @@
 06/30 Bottle Rocket
 07/01 No Sudden Move
 07/01 Spenser Confidential
-07/05 A Quiet Place Part Ii
+07/02 The Tomorrow War
+07/05 A Quiet Place Part II
+07/11 Black Widow

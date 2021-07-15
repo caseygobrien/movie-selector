@@ -1,6 +1,7 @@
 from datetime import datetime
 from random import choice
 from titlecase import titlecase
+from smart_sort import smart_sort
 
 running = True
 movies = []
@@ -22,9 +23,9 @@ with open(this_years_list, 'r') as watched:
 
 
 def save_movie_list():
-    sort_movies()
+    sorted_movies = smart_sort(movies)
     with open(movielist, 'r+') as save:
-        for movie in movies:
+        for movie in sorted_movies:
             save.write(titlecase(movie) + '\n')
             save.truncate()
 
@@ -66,40 +67,16 @@ def delete_movie(title):
     else:
         print("\n\"{}\" is not in your list".format(titlecase(title)), end='\n')
 
-
-def sort_movies():
-    movies_with_the = [title for title in movies if title.startswith("the ")]
-    movies_with_a = [title for title in movies if title.startswith("a ")]
-    movies_with_an = [title for title in movies if title.startswith("an ")]
-    movies_the_cleaned = [title.replace("the ", "") for title in movies_with_the]
-    movies_a_cleaned = [title.replace("a ", "") for title in movies_with_a]
-    movies_an_cleaned = [title.replace("an ", "") for title in movies_with_an]
-    for title in movies:
-        if title in movies_with_the:
-            movies[movies.index(title)] = movies_the_cleaned[movies_with_the.index(title)]
-        elif title in movies_with_an:
-            movies[movies.index(title)] = movies_an_cleaned[movies_with_an.index(title)]
-        elif title in movies_with_a:
-            movies[movies.index(title)] = movies_a_cleaned[movies_with_a.index(title)]
-    movies.sort()
-    for title in movies:
-        if title in movies_the_cleaned:
-            movies[movies.index(title)] = movies_with_the[movies_the_cleaned.index(title)]
-        elif title in movies_an_cleaned:
-            movies[movies.index(title)] = movies_with_an[movies_an_cleaned.index(title)]
-        elif title in movies_a_cleaned:
-            movies[movies.index(title)] = movies_with_a[movies_a_cleaned.index(title)]
-    return movies
-
-
 while running:
-    selection = input("""\n[N]ew Movie
-[W]atch Movie
+    selection = input("""
+[A]dd Movie
 [D]elete Movie
-[R]andom Movie
+[W]atch Movie
+[R]andom Movie Selection
 [S]ee Movie List
 [V]iew Watched List
-[E]xit\n""").lower()
+[E]xit
+""").lower()
     if selection == "w":
         watched_movie = input("\nMovie Title: ")
         add_watched_movie(watched_movie)
@@ -108,11 +85,11 @@ while running:
         delete_movie(movie_to_delete)
     elif selection == "r":
         print("\nYour next movie should be \"{}\"".format(titlecase(choice(movies))))
-    elif selection == "n":
+    elif selection == "a":
         new_movie = input("\nMovie Title: ")
         add_new_movie(new_movie)
     elif selection == "s":
-        view_sorted_movies = sort_movies()
+        view_sorted_movies = smart_sort(movies)
         print("-" * 40)
         for entry in view_sorted_movies:
             print(titlecase(entry))

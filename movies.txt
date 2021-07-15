@@ -11,7 +11,6 @@ Be Kind Rewind
 The Beach
 Behind the Curve
 The Big Sleep
-Black Widow
 Blood Diamond
 Bone Tomahawk
 Boss Level
@@ -81,7 +80,7 @@ The Front Runner
 The Gambler
 Gemini Man
 Ghostbusters: Afterlife
-The Girl on the Train
+The Girl on Train
 Gosford Park
 The Graduate
 The Grand Budapest Hotel
@@ -165,7 +164,7 @@ Once Upon a Time in America
 The One and Only Ivan
 One Night in Miami
 Oslo
-The Other Side of the Wind
+The Other Side of Wind
 Our Man in Havana
 Overlord
 Oxygen
@@ -231,7 +230,6 @@ Those Who Wish Me Dead
 Three Days of the Condor
 Thunder Force
 Time
-The Tomorrow War
 Top Gun: Maverick
 Uncharted
 Upgrade
@@ -240,7 +238,7 @@ Vivarium
 Voyagers
 The War With Grandpa
 The Way Back
-The Way of the Gun
+The Way of Gun
 We Have Always Lived in the Castle
 The Wolf of Snow Hollow
 You're Next

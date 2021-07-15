@@ -6,6 +6,7 @@ Charlotte's Web
 A Christmas Story
 Crouching Tiger, Hidden Dragon
 Duck Soup
+Edge of Tomorrow
 Edward Scissorhands
 Elf
 Fantastic Mr. Fox
@@ -19,6 +20,7 @@ Jurassic World
 The Karate Kid
 The Kid
 The Little Mermaid
+Major League
 Men in Black
 Miracle
 Modern Times
@@ -31,6 +33,7 @@ The Secret of Nimh
 Some Like It Hot
 Spider-Man
 Stand by Me
+The Terminator
 Titan Ae
 Titanic
 To Kill a Mockingbird
