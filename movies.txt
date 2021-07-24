@@ -1,5 +1,4 @@
 13th
-Antebellum
 Ava
 Bacurau
 Bad Boys for Life
@@ -49,6 +48,7 @@ The Defiant Ones
 Desperados
 Devil in a Blue Dress
 Dogtooth
+Don't Look Up
 Double Indemnity
 Drunk Bus
 Dune
@@ -95,6 +95,7 @@ His House
 Hobbs and Shaw
 Holy Motors
 Hotel Rwanda
+House of Gucci
 Hustlers
 I'm No Longer Here
 The Ice Road
@@ -120,6 +121,7 @@ Kramer vs. Kramer
 Kubo and the Two Strings
 La Vie en Rose
 The Last Days of Disco
+The Last Duel
 Last Flag Flying
 Last Night in Soho
 Lawrence of Arabia
@@ -132,7 +134,6 @@ The Lives of Others
 The Lost City of Z
 Lost Highway
 Loving
-Ma Rainey's Black Bottom
 Magic Mike
 Malcolm & Marie
 Malignant
@@ -203,9 +204,9 @@ Sex, Lies, and Videotape
 Shang-Chi and the Legend of the Ten Rings
 Shoplifters
 Sid and Nancy
-A Simple Favor
 A Single Man
 Sinister
+Soggy Bottom
 Soldado
 Sound of My Voice
 The Souvenir
@@ -241,5 +242,4 @@ The Way Back
 The Way of Gun
 We Have Always Lived in the Castle
 The Wolf of Snow Hollow
-You're Next
 Zola

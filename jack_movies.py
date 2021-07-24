@@ -19,7 +19,7 @@ with open(movielist, 'r') as movieimport:
         movies.append(line.strip('\n').lower())
 with open(this_years_list, 'r') as watched:
     for line in watched:
-        watched_movies.append(line.strip('\n').lower())
+        watched_movies.append(line.strip('\n'))
 
 
 def save_movie_list():
@@ -43,10 +43,10 @@ def add_watched_movie(title):
         save_movie_list()
     except ValueError:
         pass
-    title = today + ' ' + title
-    watched_movies.append(title)
+    dated_title = today + ' ' + title
+    watched_movies.append(dated_title)
     print('\n"{}" added to your {}'
-          ' watched list.'.format(titlecase(new_movie), current_year), end='\n')
+          ' watched list.'.format(titlecase(title), current_year), end='\n')
     save_watched_list()
 
 

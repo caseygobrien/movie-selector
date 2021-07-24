@@ -3,7 +3,6 @@ from random import choice
 from titlecase import titlecase
 from smart_sort import smart_sort
 
-running = True
 movies = []
 watched_movies = []
 movielist = "movies.txt"
@@ -72,7 +71,8 @@ def get_movie():
     new_movie = input("Movie title: ").lower()
     return new_movie
 
-while running:
+
+while True:
     selection = input("""
 [A]dd Movie
 [D]elete Movie
@@ -103,4 +103,4 @@ while running:
         print("\nYour next movie should be \"{}\"".format(titlecase(choice(movies))))
     elif selection == "e":
         print("You have {} movies in your list".format(len(movies)))
-        running = False
+        break
