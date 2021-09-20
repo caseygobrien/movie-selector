@@ -16,9 +16,9 @@ open(this_years_list, 'a').close()
 with open(movielist, 'r') as movieimport:
     for line in movieimport:
         movies.append(line.strip('\n').lower())
-with open(this_years_list, 'r') as watched_import:
-    for line in watched_import:
-        watched_movies.append(line.strip('\n'))
+with open(this_years_list, 'r') as watch_import:
+    for line in watch_import:
+      watched_movies.append(line.strip('\n'))
 
 
 def save_movie_list():
