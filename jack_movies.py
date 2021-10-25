@@ -51,6 +51,8 @@ def add_watched_movie(title):
 
 
 def add_new_movie(title):
+    if title == "":
+        return
     if title in movies:
         print("\n\"{}\" is already in your list".format(titlecase(title)), end='\n')
     else:
