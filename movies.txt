@@ -21,7 +21,6 @@ The Big Sleep
 Birds of Prey
 The Black Phone
 Blood Diamond
-Bob Ross: Happy Accidents, Betrayal & Greed
 Bone Tomahawk
 Boss Level
 Brawl in Cell Block 99
@@ -55,7 +54,6 @@ David Byrne's American Utopia
 Dazed and Confused
 Dead Man
 Dead Poet's Society
-Dear Evan Hansen
 Death on the Nile
 Deep Water
 The Defiant Ones
@@ -69,7 +67,6 @@ End of Watch
 Enemy
 Enola Holmes
 Escape From Alcatraz
-Eternals
 Event Horizon
 Everybody's Talking About Jamie
 Exit Through the Gift Shop
@@ -78,12 +75,12 @@ The Eyes of Tammy Faye
 False Positive
 Fatman
 Feels Good Man
+Finch
 First Reformed
 Flags of Our Fathers
 The Florida Project
 Foxcatcher
 Frances Ha
-Free Guy
 The French Dispatch
 The Front Runner
 Gemini Man
@@ -114,7 +111,6 @@ The Ipcress File
 It's Such a Beautiful Day
 John Carter
 Jolt
-Justice League Dark: Apokolips War
 Kate
 Kicking and Screaming
 Kill List
@@ -132,7 +128,6 @@ Lamb
 The Last Days of Disco
 The Last Duel
 Last Flag Flying
-Last Night in Soho
 The Last of Sheila
 Lawrence of Arabia
 Leaving Las Vegas
@@ -169,6 +164,7 @@ The New Mutants
 The Nice Guys
 Night Moves
 The Nightingale
+Nightmare Alley
 Oldboy
 Once Upon a Time in America
 One Night in Miami
@@ -180,6 +176,7 @@ Oxygen
 The Painted Bird
 Palmer
 Paris, Texas
+Passing
 Peppermint
 A Perfect World
 Pet Semetary
@@ -195,11 +192,9 @@ Raging Bull
 The Raid
 Rambo: Last Blood
 Raya and the Last Dragon
-Red Notice
 The Rescue
 The Revenant
-Riders of Justice
-Rocky Ii
+Rocky II
 Rolling Thunder Revue
 Ronin
 Rounders
@@ -211,7 +206,7 @@ Secret Life of Pets 2
 Senior Moment
 Sergeant York
 A Serious Man
-Sex, Lies, and Videotape
+The Shrink Next Door
 Sing 2
 A Single Man
 Sinister
@@ -231,9 +226,9 @@ Sylvie's Love
 T2 Trainspotting
 The Taking of Deborah Logan
 Tesla
-The Third Man
 Three Days of the Condor
 Thunder Force
+Tick, Tick...boom!
 Time
 Titane
 To the Wonder

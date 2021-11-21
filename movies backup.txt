@@ -23,6 +23,7 @@ Brawl in Cell Block 99
 Brazil
 Breathless
 The Brothers Bloom
+C'mon C'mon
 Call Me by Your Name
 Can You Ever Forgive Me
 Candyman (2021)
@@ -34,7 +35,6 @@ Chaos Walking
 Charlie's Angels (2019)
 Cherry
 Chinatown
-Cmon Cmon
 Coda
 Come to Daddy
 Come True
@@ -85,7 +85,6 @@ The French Dispatch
 The Front Runner
 Gemini Man
 Ghostbusters: Afterlife
-The Girl on Train
 Gosford Park
 The Graduate
 The Grand Budapest Hotel
@@ -120,8 +119,7 @@ Kicking and Screaming
 Kill List
 The Killing
 The Killing of Two Lovers
-The Killing of Two Lovers
-The King of Staten Island 
+The King of Staten Island
 King Richard
 The King's Man
 Kingsman: The Golden Circle
@@ -170,7 +168,7 @@ On the Rocks
 Once Upon a Time in America
 One Night in Miami
 Oslo
-The Other Side of Wind
+The Other Side of the Wind
 Our Man in Havana
 Overlord
 Oxygen
