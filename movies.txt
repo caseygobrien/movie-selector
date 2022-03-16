@@ -1,7 +1,11 @@
 13th
 The 355
 65
-American Underdog
+The Adam Project
+Agnes
+Alice
+Ambulance
+Anne at 13,000 Feet
 Annette
 Aquaman and the Lost Kingdom
 Avatar 2
@@ -9,29 +13,32 @@ Awake
 Azor
 Bad Boys for Life
 The Bad Guys
+Bad Luck Banging or Loony Porn
 Bad Words
 Badlands
 Barry Lyndon
-The Batman
+Batman: Death in the Family
 The Beach
 Beast
 Beckett
 Bed Rest
 Behind the Curve
-Being the Ricardos
-Belfast
 Belle
 Benedetta
 The Big Sleep
 Birds of Prey
+Black Adam
 Black Panter: Wakanda Forever
 The Black Phone
+Blacklight
 Blood Diamond
 Bone Tomahawk
 Brawl in Cell Block 99
 Brazil
 Breathless
+Bros
 The Brothers Bloom
+The Bubble
 Bullet Train
 Can You Ever Forgive Me
 Capone
@@ -42,7 +49,7 @@ Chaos Walking
 Charlie's Angels (2019)
 Cherry
 Chinatown
-Coda
+City on Fire
 Come to Daddy
 Come True
 Computer Chess
@@ -50,7 +57,7 @@ The Conformist
 Copshop
 Crank
 Crazy, Not Insane
-Creed III
+Creed Iii
 Crimes and Misdemenors
 A Cure for Wellness
 Dancer in the Dark
@@ -59,6 +66,7 @@ Dark Waters
 David Byrne's American Utopia
 Dazed and Confused
 Dead Man
+Dead Man Walking
 Dead Poet's Society
 Death on the Nile
 Deep Water
@@ -70,36 +78,41 @@ Doctor Strange in the Multiverse of Madness
 Dogtooth
 Don't Worry Darling
 Dredd
-Drive My Car
 Drunk Bus
 Dunkirk
+Elvis
 End of Watch
 Enemy
 Enola Holmes
 Escape From Alcatraz
 Event Horizon
 Everybody's Talking About Jamie
+Everything Everywhere All at Once
 Exit Through the Gift Shop
 Extra Ordinary
 The Eyes of Tammy Faye
+The Fallout
 False Positive
 Fantastic Beasts: The Secrets of Dumbledore
 Fatman
 Feels Good Man
 Finch
 First Reformed
+Fistful of Vengeance
 Flags of Our Fathers
 The Flash
 Flee
 The Florida Project
 Foxcatcher
 Frances Ha
+The French Connection
 The Front Runner
 Gemini Man
 Ghostbusters: Afterlife
 Gosford Park
 The Graduate
 The Grand Budapest Hotel
+The Green Hornet
 Greyhound
 Gunpowder Milkshake
 Hacksaw Ridge
@@ -111,7 +124,6 @@ His House
 Hobbs and Shaw
 Holy Motors
 Hotel Rwanda
-House of Gucci
 Hustlers
 I Want You Back
 I'm No Longer Here
@@ -121,6 +133,7 @@ Indemnity
 Infinite
 Inland Empire
 Interstellar
+Intolerable Cruelty
 The Ipcress File
 It's Such a Beautiful Day
 John Carter
@@ -129,12 +142,14 @@ Jurassic World: Dominion
 Kate
 Kicking and Screaming
 Kill List
+The Killer
 The Killing
 The Killing of Two Lovers
 The King of Staten Island
 The King's Man
 Kingsman: The Golden Circle
 Kiss Me Deadly
+Knives Out 2
 Kramer vs. Kramer
 Kubo and the Two Strings
 La Vie en Rose
@@ -145,21 +160,21 @@ The Last of Sheila
 Lawrence of Arabia
 Leaving Las Vegas
 Letters From Iwo Jima
-Licorice Pizza
 A Life Less Ordinary
-The Limey
+Lightyear
 Little Fish
 The Lives of Others
 Long Day's Journey Into Night
+The Lost City
 The Lost City of Z
 The Lost Daughter
 Lost Highway
-Love and Monsters
 Loving
 Magic Mike
 Magul Mowgli
 Malcolm & Marie
 The Man From Toronto
+Mandible
 Mandy
 The Many Saints of Newark
 Margaret
@@ -167,31 +182,35 @@ Mass
 Me and You and Everyone We Know
 Memoria
 Midway
-Miss Juneteenth
 Mission: Impossible 7
 Moonfall
+Morbius
+The Mother and the Whore
 Mr. Right
 Mudbound
 Mulholland Drive
 The Mustang
+Mystic River
 Nausicaa of the Valley of the Wind
 Needle in a Timestack
-Neighbors
 The New Mutants
 The Nice Guys
 Night Moves
 The Nightingale
-Nightmare Alley
+Nope
+The Novice
+Oh Hell No
 Oldboy
+On a Wing and a Prayer
 Once Upon a Time in America
 One Night in Miami
 Oslo
 The Other Side of the Wind
 Overlord
 Oxygen
-Pain & Glory
 The Painted Bird
 Palmer
+Parallel Mothers
 Paris, Texas
 Passing
 Peppermint
@@ -201,9 +220,11 @@ Petite Maman
 The Phantom
 Phantom Thread
 Pig
+Pleasure
 Portrait of a Lady on Fire
 Primer
 Prisoners of the Ghostland
+Procession
 Project Power
 The Raid
 Rambo: Last Blood
@@ -211,22 +232,23 @@ Raya and the Last Dragon
 Red Rocket
 The Rescue
 The Revenant
-Rocky II
+Rocky Ii
 Rolling Thunder Revue
+Romeo + Juliet
 Ronin
 Rounders
 Safety Not Guaranteed
 The Saint
 Saint Maud
-Scream
+The Scary of Sixty-First
 Secret Headquarters
 Secret Life of Pets 2
 See for Me
 Senior Moment
 Sergeant York
 A Serious Man
+She Said
 The Shrink Next Door
-Sing 2
 A Single Man
 Sinister
 Small Engine Repair
@@ -240,6 +262,7 @@ Stalag 17
 Stowaway
 The Straight Story
 Summer of Soul
+Sundown
 Swan Song
 Sweeny Todd
 Sylvie's Love
@@ -250,14 +273,16 @@ Tesla
 The Texas Chainsaw Massacre
 Thor: Love and Thunder
 Three Days of the Condor
+Three Thousand Years of Longing
 Thunder Force
-Tick, Tick...boom!
+Ticket to Paradise
 Time
 Titane
 To the Wonder
 Tokyo Story
 Top Gun: Maverick
-The Tragedy of Macbeth
+Train to Busan
+Turning Red
 The Unbearable Weight of Massive Talent
 Uncharted
 The Unforgivable
@@ -266,15 +291,17 @@ Val
 The Velvet Underground
 Vhyes
 Vivarium
-Voyagers
 The Wasteland
 The Way Back
 The Way of Gun
 We Have Always Lived in the Castle
+We're All Going to the World's Fair
 West Side Story (2021)
 Wheel of Fortune and Fantasy
 Wife of a Spy
 The Wild Bunch
+Wildlife
 The Wolf of Snow Hollow
 The Woman King
-The Worst Person in the World
+X
+You Won't Be Alone
